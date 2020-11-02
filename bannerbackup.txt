@@ -1,0 +1,12 @@
+
+###############################################################
+#                    Welcome to Ubuntu-Server                 #
+#          All connections are monitored and recorded         #
+#  Disconnect IMMEDIATELY if you are not an authorized user!  #
+###############################################################
+# If you attempt to illegally access this server you will be  #
+# breaking Section 250 of the New Zealand Crime Act (1969):   #
+# Damaging or interfering with computer system which carriers #
+# a maximum penalty (imprisonment) of 7 to 10 years.          #
+###############################################################
+
